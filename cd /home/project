@@ -1,1 +1,2 @@
 # coding-project-template
+[ ! -d 'xzceb-flask_eng_fr' ] && git clone <paste_your_repo_name>
